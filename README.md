@@ -1,4 +1,4 @@
-Encryp python file 🇱🇰
+Encrypt python file 🇱🇰
 
 git clone https://github.com/chamika2/encrypt
 
